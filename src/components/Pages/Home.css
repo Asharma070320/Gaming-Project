@@ -1,0 +1,8 @@
+.home_container{
+    width: 100%;
+    display: flex;
+    gap: 0.6rem;
+    align-items: center;
+    margin-top: 0.4rem;
+    /* border: 1px solid black; */
+}
