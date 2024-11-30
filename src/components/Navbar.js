@@ -1,14 +1,12 @@
 import React from "react";
 import "./Navbar.css";
+import logo from '../../src/logo.png'
 
 const Navbar = () => {
   return (
     <div className="navbar_container">
       <div className="nav_leftSection">
-        <div className="nav_logo"></div>
-        <h1>
-          SAFFRON <br /> EXCH
-        </h1>
+        <img className="set_logo" src={logo} alt="company_logo" />
       </div>
 
       <div className="nav_rightSection">
