@@ -2,7 +2,7 @@ import React from 'react'
 import './App.css'
 import Layout from './Layout'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import Home from './components/Home'
+import Home from './components/Pages/Home'
 
 const App = () => {
   const routes = createBrowserRouter([
@@ -14,7 +14,7 @@ const App = () => {
         {
           path: '/',
           element: <Home />
-        }
+        },
       ]
     }
   ])
