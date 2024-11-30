@@ -71,10 +71,12 @@ const Navbar = () => {
           {isDropdownOpen && (
             <div className="dropdown_menu">
               <ul>
-                <li>Account Settings</li>
-                <li>Settlements</li>
-                <li>Aman</li>
-                <li>Sharma</li>
+                <li>Account Statement</li>
+                <li>Current Bet</li>
+                <li>Casino Results</li>
+                <li>Set Button Values</li>
+                <hr />
+                <li>Sign Out</li>
               </ul>
             </div>
           )}
