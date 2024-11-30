@@ -1,5 +1,78 @@
 .rightSection_container{
     width: 82%;
-    /* height: 160vh; */
-    border: 2px solid black;
+    font-family: "Roboto Condensed", sans-serif;
+    /* border: 2px solid black; */
+}
+.right_highlights{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    /* border: 2px solid red; */
+}
+.highlight_box{
+    width: 20%;
+    /* height: 5vh; */
+    padding: 8px;
+    background-color: rgb(185,114,66);
+    /* border: 2px solid palevioletred; */
+}
+.highlight_box a{
+    text-align: center;
+    font-size: 0.8rem;
+    color: white;
+    text-decoration: none;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0; /* Makes the element invisible for half the time */
+    }
+}
+
+.blink_me {
+    animation: blinker 1s linear infinite; /* Blinking effect */
+    text-decoration: none; /* Ensures no underline for links */
+    color: palevioletred; /* Optional: Set the text color */
+    font-weight: bold; /* Optional: Make the text stand out */
+}
+
+/* Add delays to each highlight box */
+.right_highlights .highlight_box:nth-child(1) .blink_me {
+    animation-delay: 0s;
+}
+
+.right_highlights .highlight_box:nth-child(2) .blink_me {
+    animation-delay: 0s;
+}
+
+.right_highlights .highlight_box:nth-child(3) .blink_me {
+    animation-delay: 0s;
+}
+
+.right_highlights .highlight_box:nth-child(4) .blink_me {
+    animation-delay: 0s;
+}
+
+.right_highlights .highlight_box:nth-child(5) .blink_me {
+    animation-delay: 0s;
+}
+
+.game_bar{
+    width: 100%;
+    margin-top: 0.3rem;
+    /* border: 2px solid black; */
+}
+.boxes{
+    width: 100%;
+    display: flex;
+    list-style: none;
+    overflow-x: scroll;
+    align-items: center;
+    border: 2px solid;
+}
+.boxes li{
+    width: 90%;
+    border: 2px solid palevioletred;
 }
