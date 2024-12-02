@@ -64,15 +64,46 @@
     margin-top: 0.3rem;
     /* border: 2px solid black; */
 }
-.boxes{
+.boxes {
     width: 100%;
     display: flex;
     list-style: none;
-    overflow-x: scroll;
+    overflow-x: auto; /* Enable horizontal scrolling */
     align-items: center;
-    border: 2px solid;
-}
-.boxes li{
-    width: 90%;
-    border: 2px solid palevioletred;
-}
+    padding: 0;
+    margin: 0;
+    /* border: 2px solid black; */
+    scroll-behavior: smooth; /* Smooth scrolling */
+    
+    /* Hide scrollbar */
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+    scrollbar-width: none; /* Firefox */
+  }
+  
+  .boxes::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, and Edge */
+  }
+  
+  .boxes li {
+    flex-shrink: 0;
+    width: 120px;
+    text-align: center;
+    padding: 5px;
+    border-right: 1px solid palevioletred;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    background-color: rgb(204, 204, 204); /* Default background color */
+    cursor: pointer; /* Change cursor on hover */
+    transition: background-color 0.3s ease; /* Smooth transition for color */
+  }
+  
+  .boxes li.selected {
+    background-color: rgb(185, 114, 66); /* Background color for selected item */
+    color: white; /* Optional: Change text color */
+  }
+  
+  .boxes li:last-child {
+    border-right: none;
+  }
+  
