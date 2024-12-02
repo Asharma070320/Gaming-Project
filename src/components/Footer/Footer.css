@@ -11,6 +11,7 @@
     align-items: center;
     /* gap: 10rem; */
     background-color: rgb(174,70,0);
+    /* border: 2px solid black; */
 }
 .terms_condition{
     width: 30%;
@@ -38,4 +39,41 @@
 }
 .visibilty_hidden{
     visibility: hidden;
+}
+.footer_bottom{
+    width: 100%;
+    padding: 10px 20px;
+    /* border: 2px solid greenyellow; */
+}
+.secure_container{
+    display: flex;
+    /* gap: 1rem; */
+    justify-content: space-between;
+    align-items: center;
+    /* border: 2px solid yellow; */
+}
+.secure_container img{
+    width: 100px;
+}
+.inside_secure_container{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    /* border: 2px solid red; */
+}
+.three_icons {
+    /* border: 2px solid black; */
+    display: flex; /* Ensures children are flex items */
+    gap: 0.5rem; /* Adds a gap of 1rem between items */
+    align-items: center; /* Vertically aligns items */
+    justify-content: center; /* Center-aligns items horizontally (optional) */
+}
+
+.three_icons img {
+    width: 30px;
+    height: 30px;
+}
+.footer_container .copyright{
+    font-size: 0.9rem;
+    text-align: center;
 }

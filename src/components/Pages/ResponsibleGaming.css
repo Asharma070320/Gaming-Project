@@ -1,0 +1,62 @@
+.responsibleGaming_container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Roboto Condensed", sans-serif;
+    line-height: 1.6; /* Increases line spacing for better readability */
+    padding: 1rem 2rem; /* Adds padding around the content */
+    box-sizing: border-box;
+    background-color: #f9f9f9; /* Soft background for less strain */
+    color: #333; /* Darker color for better contrast */
+    /* border: 2px solid black; */
+}
+.responsible_gaming_list{
+    width: 100%;
+    margin-top: 1rem;
+    /* max-width: 800px;  */
+    padding: 0.5rem 1rem;
+    background-color: #fff; /* White background for contrast */
+    border-radius: 8px; /* Smooth corners */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+.responsible_gaming_list h4 {
+    margin: 1rem 0 0.5rem 0; /* Space before and after headers */
+    font-size: 1.3rem;
+    color: #34495e;
+  }
+
+  .responsible_gaming_list p {
+    margin: 0.5rem 0 1rem 0; /* Add space below each paragraph */
+    font-size: 1rem;
+    text-align: justify; 
+  }
+  
+  .responsible_gaming_list ul,
+  .responsible_gaming_list ol {
+    margin: 0.5rem 0 1rem 1.5rem; 
+    padding-left: 1rem;
+  }
+  
+  .responsible_gaming_list li {
+    margin-bottom: 0.5rem; /* Space between list items */
+  }
+  
+  @media (max-width: 768px) {
+    .terms_container {
+      padding: 1rem;
+    }
+  
+    .responsible_gaming_list {
+      padding: 0.5rem;
+    }
+  }
+  
+  .responsible_gaming_list a{
+    color: rgb(13,110,253);
+    text-decoration: none;
+  }
+  .responsible_gaming_list h5{
+    font-size: 1rem;
+
+  }

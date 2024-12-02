@@ -575,6 +575,236 @@ const Terms_Condition = () => {
           be held liable.
         </p>
         <h4>14. Miscarried and Aborted Games</h4>
+        <p>
+          We do everything We can not to have any technical foul ups, but this
+          isn’t always possible. We therefore need to tell You the following:{" "}
+          <br />
+          14.1 We, Our suppliers and/or licensors are not liable for any
+          downtime, server disruptions, lagging, or any technical or political
+          disturbance to Game play. Refunds may be given solely at the
+          discretion of the management; <br />
+          14.2 We, Our suppliers and/or licensors accept no liability for any
+          damages or losses which are deemed or alleged to have arisen out of or
+          in connection with the Site or its content, including and without
+          limitation to: <br />
+          -> Delays or interruptions in operation or transmission; <br />
+          -> Loss or corruption of data; <br />
+          -> Communication or lines failure; <br />
+          -> Any site or content misuse; <br />
+          -> Any errors or omissions in content; <br />
+          14.3 In the event of a casino system malfunction all wagers are void;{" "}
+          <br />
+          14.4 If Your Game miscarries because of a failure of the system, We
+          shall refund the amount wagered in Your Game by crediting it to Your
+          Account or, if Your Account no longer exists, by paying it to You
+          directly, in an approved manner. If You have accrued credit at the
+          time the Game got miscarried, the monetary value of the credit will be
+          paid out to Your Account or, if Your Account no longer exists, it will
+          be to You directly, in an approved manner; <br />
+          14.5 We shall take all reasonable steps to ensure that Our computer
+          system enables Your participation in a Game. If after You have made a
+          wager game play is interrupted by a failure of the telecommunications
+          system or a failure of Your computer system, the Game will resume as
+          at the exact time immediately before the interruption occurred. If
+          however, such resumption is not possible We shall: <br />
+          -> Ensure that the Game is terminated; <br />
+          -> Refund the amount of the wager to You by placing it in the Your
+          Account.
+        </p>
+        <h4>15. How to Complain</h4>
+        <p>
+          15.1 Ensuring the ultimate Customer experience is in Our DNA and very
+          much part of Our mind-set, however We appreciate that from time to
+          time complaints need to be addressed. On the rare occasion this
+          happens You can get hold of Us through the following communication
+          channels: <br />
+          -> E-mail Us on: support mail <br />
+          -> Chat with us on Site. <br />
+          15.2 So that We can deal with Your complaint quickly and efficiently,
+          please provide Us with clear information about Your identity as well
+          as all relevant details giving rise to the issue. This will enable Us
+          to promptly resolve a reported matter and reach an amicable
+          settlement. <br />
+          15.3 Any claim you might have regarding any transaction must be made
+          within six months after the transaction, payment and/or settlement
+          took place/should have taken place; otherwise we will not consider the
+          claim. Once a claim is received, we will review any queried or
+          disputed transactions and let you know the outcome. Our decision on
+          this is final, in simple terms, what we say goes.
+        </p>
+        <h4>16. When Talking to Us</h4>
+        <p>
+          16.1 When You contact Us, You will not make statements which: <br />
+          -> Are sexually explicit or grossly offensive; <br />
+          -> Use derogatory terms and/or incite hatred; <br />
+          -> Are abusive, defamatory or otherwise harass, threaten or cause
+          distress or inconvenience to our support agents. <br />
+          16.2 We record or keep copies of all communications that You have with
+          Our support agents.
+        </p>
+        <h4>17. When Talking to Each Other</h4>
+        <p>
+          17.1 We may provide You with a chat facility to talk to other players.
+          When contacting each other, You shall not make statements or transmit
+          content which: <br />
+          -> Is sexually explicit or grossly offensive; <br />
+          -> Uses derogatory terms and/or incites hatred; <br />
+          -> Encourages or facilitates antisocial behaviour; <br />
+          -> Encourages or facilitates any illegal activities; <br />
+          -> Harasses, threatens or causes distress or inconvenience to other
+          players; <br />
+          -> Influences other player’s actions through intimidation or abuse;{" "}
+          <br />
+          -> Disrupts the normal flow of dialogue, makes statements that are
+          abusive, defamatory, harassing or insulting to the users of the Site;{" "}
+          <br />
+          -> Advertises, promotes or otherwise relates to any other online
+          entities including forums; <br />
+          -> Is about the [removed duplicated “the”] Site, or any other Internet
+          site(s) connected to the Site and is untrue and/or malicious and/or
+          damaging to the Site; <br />
+          17.2 You will not collude in any way through the chat rooms. <br />
+          17.3 Any suspicious chats will be reported to the Regulator and all
+          relevant authorities. Be careful what You post. <br />
+          17.4 We review all chats and keep a log and record of all statements.
+          Your use of the chat facility should be for recreational and
+          socialising purposes only. <br />
+          17.5 If You breach any of the provisions relating to the chat
+          facility, We may remove the chat room or immediately close Your
+          Account. If We do, We shall refund any funds which may be in Your
+          Account over and above any amount which may be owed to Us (if any).{" "}
+          <br />
+          17.6 We will not be liable if damage arises out of such chat
+          functionality. You agree to compensate Us against any damage arising
+          out of Your illegal, unlawful or inappropriate conduct or arising out
+          of violation of these chat Rules.
+        </p>
+        <h4>18. Privacy Policy You can read our Privacy Statement here</h4>
+        <p>
+          You should be aware that acceptance of the Rules includes full
+          acceptance of the terms of Our Privacy Statement. We therefore ask
+          that You read the Privacy Statement carefully.
+        </p>
+        <h4>19. Your Liability to Us</h4>
+        <p>
+          19.1 You enter the Site and participate in the Games at Your own risk.
+          The Site and the Games are provided ‘as is’. The only promises We make
+          in relation to the Site are detailed in these Rules. We do not warrant
+          (in simple language, We do not legally promise) that: <br />
+          -> The software or the Site is fit for purpose and free from errors;{" "}
+          <br />
+          -> The Site and/or Games will be accessible without interruptions.{" "}
+          <br />
+          19.2 We shall not be liable for anything, this includes any: loss,
+          costs, expenses or damages, whether direct, indirect, special,
+          consequential, incidental or otherwise arising in relation to Your use
+          of the Site or Your participation in the Games. <br />
+          19.3 You hereby agree to fully indemnify Us (in simple language,
+          compensate Us for any loss) and directors, employees, partners, and
+          service providers for any: cost, expense, loss, damages, claims and
+          liabilities howsoever caused that may arise in relation to Your use of
+          the Site or participation in the Games. If You don’t agree to this,
+          You should not use the Site.
+        </p>
+        <h4>20. Breaches, Penalties and Termination</h4>
+        <p>
+          20.1 If we suspect that You have breached these Rules, We may refuse
+          to open, suspend or close Your Account. We may also withhold any money
+          in Your Account (including the deposit) and set off any money or
+          damages due to Us against the money in Your Account. <br />
+          20.2 We also have the right to freeze or terminate Your Account or
+          cancel any stakes if: <br />
+          We suspect that You are engaged in illegal or fraudulent activities;{" "}
+          <br />
+          You are having problems with creditors or otherwise which are
+          detrimental to Our business. <br />
+          You are having problems with creditors or otherwise which are
+          detrimental to Our business. <br />
+          20.3 Our decision is final.
+        </p>
+        <h4>21. Anti-money Laundering Reporting</h4>
+        <p>
+          21.1 As a gaming operator We need to comply with the Prevention of
+          Money Laundering Act and any associated Regulations. We shall check
+          all transactions and report any suspicious transaction to the relevant
+          competent authorities in Malta (or other such territory as may be
+          relevant to Your transactions). <br />
+          21.2 f You become aware of any suspicious activity relating to any of
+          the Games on the Site, You must report this to Us immediately. <br />
+          21.3 We may suspend, block or close Your Account and withhold funds,
+          in accordance with the Prevention of Money Laundering Act.
+        </p>
+        <h4>22. Intellectual Property</h4>
+        <p>
+          22.1 We are the sole owner of the trademark ‘website’ and it's logo.
+          Any unauthorised use of the ‘website’ trademark and it's logo may
+          result in prosecution. <br />
+          22.2 Website is Our uniform resource locator and no unauthorised use
+          may be made of this URL on any other Site or digital platform without
+          Our prior written consent. Links to the Site and any of the pages
+          therein may not be included in any other Site without Our prior
+          written consent. <br />
+          22.3 We are the owner or the rightful licensee of the rights to the
+          technology, software and business systems used within the Site. <br />
+          22.4 The contents and structure of the Site pages are subject to
+          copyright © and database rights in the name of - all rights reserved.
+          The copyright in this Site including all: text, graphics, code, files
+          and links belongs to Us and the Site may not be reproduced,
+          transmitted or stored in whole or in part without Our written consent.
+          Your registration and use of the Site does not confer any rights
+          whatsoever to the intellectual property contained in the Site. <br />
+          22.5 You agree not to use any automatic or manual device to monitor
+          Our web pages or any content therein. Any unauthorised use or
+          reproduction may be prosecuted.
+        </p>
+        <h4>23. Severability</h4>
+        <p>
+          If any provision of these Rules is held to be illegal or
+          unenforceable, such provision shall be severed from these Rules and
+          all other provisions shall remain in force unaffected by such
+          severance.
+        </p>
+        <h4>24. Entire Agreement and Admissibility</h4>
+        <p>
+          24.1 The Rules are the entire agreement between us with respect to
+          this Site and, except in the case of fraud, overrule all prior
+          communication and proposals, whether electronic, oral or written,
+          between us. <br />
+          24.2 A printed version of these Rules and any notice given in
+          electronic form shall be admissible in judicial or administrative
+          proceedings.
+        </p>
+        <h4>25. Assignment</h4>
+        <p>We can assign or transfer this agreement. You cannot assign or transfer
+        this agreement.</p>
+        <h4>26. Insolvency</h4>
+        <p>
+          We hold all customer funds in a separate bank account. You must be
+          aware that these funds are not protected in the case of insolvency and
+          therefore in the event that We should go insolvent, Your funds may not
+          be returned to You. For customers in the United Kingdom, We have a
+          duty to inform You that this level of protection is classed as the
+          basic level. For more information, please see here.
+        </p>
+        <h4>27. Applicable Law, Jurisdiction and Language</h4>
+        <p>
+          27.1 These Rules are published in a number of languages. It is only
+          the English version that forms the legal basis of the relationship
+          between us, but all versions reflect the same principles. Translations
+          into other languages are made as a service and in good faith, in the
+          event of any discrepancy between an English version and a translation,
+          the English version shall prevail.
+        </p>
+        <h4>28. Appendix</h4>
+        <p>
+          28.1 Game Specific Rules The Rules included in this section relate to
+          specific Games. We sometimes use Games provided by other companies and
+          they ask us to include these rules in our own Rules. There are
+          sometimes Rules which are so specific to a Game, you only need to be
+          aware of those Rules if you play that Game. All of these rules have
+          been dropped in this section. By playing any of the Games you will be
+          agreeing to these Game Rules.
+        </p>
       </div>
     </div>
   );
